@@ -5,6 +5,6 @@ namespace LayoutExporter
 {
     internal class WindowLayout
     {
-        public static readonly string LayoutsPreferencesPath = Path.Combine(InternalEditorUtility.unityPreferencesFolder, "Layouts");
+        public static readonly string LayoutsPreferencesPath = Path.Combine(InternalEditorUtility.unityPreferencesFolder, "Layouts\\default");
     }
 }
